@@ -107,21 +107,6 @@ section .title::after{
 .navbar.sticky .logo a span{
     color: #fff;
 }
-.navbar .menu li{
-    list-style: none;
-    display: inline-block;
-}
-.navbar .menu li a{
-    display: block;
-    color: #fff;
-    font-size: 25px;
-    font-weight: 500;
-    margin-left: 150px;
-    transition: color 0.3s ease;
-}
-.navbar .menu li a:hover{
-    color: rgb(235, 209, 64);
-}
 .navbar.sticky .menu li a:hover{
     color: #fff;
 }
